@@ -2,7 +2,7 @@
  Create String Art with PyQt
  ![](./images/screenshot.png)
 
-# Installaton
+# Installation
 ```
 $ pip install PyQt5 pyqtgraph opencv-python tqdm
 ```
